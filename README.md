@@ -10,6 +10,8 @@ This prototype demonstrates core frontend development skills including:
 -   **Responsive Design**: A mobile-friendly interface adapted for various screen sizes using Tailwind CSS.
 -   **Accessibility**: Semantic HTML and ARIA labels for screen reader support.
 
+![App Screenshot](./app-screenshot.png)
+
 ## Technologies Used
 
 -   **React**: UI Library

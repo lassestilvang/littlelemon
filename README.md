@@ -2,6 +2,8 @@
 
 This project is a table booking web application for the Little Lemon restaurant, built with React and Vite. It allows users to reserve a table by selecting a date, time, number of guests, occasion, and seating preference.
 
+**[View Live Demo](https://lassestilvang.github.io/littlelemon/)**
+
 ## Project Overview
 
 This prototype demonstrates core frontend development skills including:

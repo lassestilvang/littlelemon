@@ -1,5 +1,5 @@
 import { Button } from '@/app/components/ui/button';
-import { ImageWithFallback } from '@/app/components/figma/ImageWithFallback';
+import { ImageWithFallback } from '@/app/components/ImageWithFallback';
 
 interface HomePageProps {
   onBookTable: () => void;
